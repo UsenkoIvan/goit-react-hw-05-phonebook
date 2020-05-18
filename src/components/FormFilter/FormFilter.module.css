@@ -1,0 +1,17 @@
+.container {
+    width: 300px;
+    margin: 0 auto;
+}
+
+.label {
+    text-align: left;
+    font-size: 14px;
+}
+
+.input {
+    width: 300px;
+    margin: 10px auto;
+    display: block;
+    border-radius: 8px;
+    border: 1px solid #cccccc;
+}

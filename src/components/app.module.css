@@ -1,0 +1,12 @@
+.container {
+    position: relative;
+    width: 400px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.title {
+    color: blue;
+    text-align: left;
+    padding-left: 40px;
+}
